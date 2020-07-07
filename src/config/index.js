@@ -1,14 +1,14 @@
 module.exports = {
 
-    author: "@konstantinmuenster",
-    siteTitle: "Gatsby Starter Portfolio Minimal",
-    siteShortTitle: "Gatsby", // Used as logo text in header, footer, and splash screen
+    author: "@estradanicolas",
+    siteTitle: "Nico Estrada's Portfolio",
+    siteShortTitle: "Nico Estrada", // Used as logo text in header, footer, and splash screen
     siteDescription: "A modern one-page portfolio with a clean yet expressive design.",
     siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
     siteLanguage: "en_US",
     siteIcon: "src/content/favicon.png", // Relative to gatsby-config file
 
-    splashScreen: false, // Set this to true if you want to use the splash screen
+    splashScreen: true, // Set this to true if you want to use the splash screen
 
     // You can create your own Medium feed with this rss to json converter: https://rss2json.com/
     // To access your Medium RSS feed, just replace this url with your username: https://medium.com/feed/@{yourname}
@@ -53,7 +53,7 @@ module.exports = {
         ],
         button: {
             name: "estrada@hey.com",
-            url: "/#contact",
+            url: "mailto:estrada@hey.com",
         }
     },
 
