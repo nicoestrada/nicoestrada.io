@@ -22,20 +22,20 @@ module.exports = {
             name: "Twitter",
             url: "https://www.twitter.com/nicoestrda/"
         },
+        {
+            name: "Github",
+            url: "https://github.com/estradanicolas"
+        },
     ],
     
     navLinks: {
         menu: [
             {
-                name: "Articles",
-                url: "/#articles",
-            },
-            {
                 name: "About Me",
                 url: "/#about",
             },
             {
-                name: "Features",
+                name: "Projects",
                 url: "/#projects",
             },
         ],
