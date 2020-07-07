@@ -34,8 +34,8 @@ module.exports = {
             },
         ],
         button: {
-            name: "estrada@hey.com",
-            onClick: "mailto:estrada@hey.com",
+            name: "Contact",
+            url: "#contact",
         }
     },
 
