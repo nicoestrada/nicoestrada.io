@@ -19,8 +19,8 @@ module.exports = {
     // Medium, GitHub, LinkedIn, XING, Behance
     socialMedia: [
         {
-            name: "Twitter",
-            url: "https://www.twitter.com/nicoestrda/"
+            name: "LinkedIn",
+            url: "https://www.linkedin.com/in/nicolassebastian/"
         },
         {
             name: "Github",
@@ -46,13 +46,6 @@ module.exports = {
     },
 
     footerLinks: [
-        {
-            name: "Privacy",
-            url: "/privacy"
-        },
-        {
-            name: "Imprint",
-            url: "/imprint"
-        }
+        
     ]
 }
