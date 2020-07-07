@@ -17,24 +17,6 @@ module.exports = {
     
     // There are icons available for the following platforms: 
     // Medium, GitHub, LinkedIn, XING, Behance
-    socialMedia: [
-        {
-            name: "LinkedIn",
-            url: "https://linkedin.com/in/nicolassebastian/"
-        },
-        {
-            name: "Twitter",
-            url: "https://twitter.com/nicoestrda"
-        },
-        {
-            name: "GitHub",
-            url: "https://github.com/estradanicolas"
-        },
-        {
-            name: "Instagram",
-            url: "https://instagram.com/nicoestrda"
-        },
-    ],
   
     navLinks: {
         menu: [
@@ -53,7 +35,7 @@ module.exports = {
         ],
         button: {
             name: "estrada@hey.com",
-            url: "mailto:estrada@hey.com",
+            onClick: "mailto:estrada@hey.com",
         }
     },
 
