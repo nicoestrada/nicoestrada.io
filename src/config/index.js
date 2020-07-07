@@ -17,7 +17,13 @@ module.exports = {
     
     // There are icons available for the following platforms: 
     // Medium, GitHub, LinkedIn, XING, Behance
-  
+    socialMedia: [
+        {
+            name: "Twitter",
+            url: "https://www.twitter.com/nicoestrda/"
+        },
+    ],
+    
     navLinks: {
         menu: [
             {
